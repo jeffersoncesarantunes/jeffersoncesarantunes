@@ -1,7 +1,7 @@
 # <p align="center"> 🐡 Jefferson Cesar Antunes (0x4A6566666572736F6E) 🐧 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Self-Taught+System+Security+Developer;OpenBSD+%26+Linux+Enthusiast;Constantly+learning+and+sharing+knowledge" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=+%E2%96%88+;Self-Taught+System+Security+Developer+%E2%96%88;OpenBSD+%26+Linux+Enthusiast+%E2%96%88;Constantly+learning+%26+sharing+knowledge+%E2%96%88;+%E2%96%88+" alt="Typing SVG" />
 </p>
 
 ---
@@ -47,8 +47,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffersoncesarantunes&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersoncesarantunes&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffersoncesarantunes&show_icons=true&theme=neon&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersoncesarantunes&layout=compact&theme=neon&hide_border=true" />
 </p>
 
 ---
@@ -69,3 +69,4 @@
   <a href="https://discord.com/users/1476405883733807247"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" /></a>
   <a href="https://mastodon.social/@jeffersoncesar"><img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white" /></a>
 </p>
+
