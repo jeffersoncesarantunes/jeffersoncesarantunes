@@ -1,6 +1,6 @@
-# Jefferson Cesar Antunes /* 0x4A6566666572736F6E */ 🐧🐡
+#🐡🐧 Jefferson Cesar Antunes /*0x4A6566666572736F6E*/ 🐧🐡
 
-> **System Security Developer | Business Management Graduate | Unix Enthusiast**
+**System Security Developer | Kernel & Memory Forensics | Unix Enthusiast**
 
 ---
 
@@ -14,7 +14,7 @@
 ---
 
 ### 🛠️ Technical Stack & Environment
-* **OS:** Arch Linux (Daily Driver) | OpenBSD (Security Auditing)
+* **OS (Daily Driver):** **OpenBSD** & **Arch Linux**
 * **Languages:** C (C99/C11), Bash, Python
 * **Tools:** AstroNvim, Git/Codeberg, GNU Make
 * **Focus:** Memory Forensics, Kernel Mitigations, POSIX Compliance
@@ -22,10 +22,10 @@
 ---
 
 ### 🌐 Explore the Unix World
-*Interested in security, stability, and freedom? Click the badges below to discover the power of Linux and OpenBSD:*
+*Interested in security, stability, and freedom? Click the badges below to discover the power of OpenBSD and Linux:*
 
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org)
 [![OpenBSD](https://img.shields.io/badge/OpenBSD-FBD12B?style=flat-square&logo=openbsd&logoColor=black)](https://www.openbsd.org)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org)
 [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)](https://getfedora.org)
 [![openSUSE](https://img.shields.io/badge/openSUSE-73BA48?style=flat-square&logo=opensuse&logoColor=white)](https://www.opensuse.org)
@@ -41,4 +41,7 @@
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/jeffersoncesarantunes/) | [Codeberg](https://codeberg.org/jeffersoncesarantunes)
+[![Discord](https://img.shields.io/badge/Discord-Jefferson-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1476405883733807247)
+[![X](https://img.shields.io/badge/j3ff3rsonc3sar-000000?logo=x&logoColor=white)](https://x.com/j3ff3rsonc3sar)
+[![Mastodon](https://img.shields.io/badge/Mastodon-@jeffersoncesar-6364FF?logo=mastodon&logoColor=white)](https://mastodon.social/@jeffersoncesar)
+[![Codeberg](https://img.shields.io/badge/Codeberg-Jefferson-2185D0?logo=codeberg&logoColor=white)](https://codeberg.org/jeffersoncesarantunes)
