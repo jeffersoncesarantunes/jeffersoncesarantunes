@@ -58,6 +58,6 @@
 
 ### 📫 Connect with me:
 [![X](https://img.shields.io/badge/j3ff3rsonc3sar-000000?logo=x&logoColor=white)](https://x.com/j3ff3rsonc3sar)
+[![Codeberg](https://img.shields.io/badge/Codeberg-Jefferson-2185D0?logo=codeberg&logoColor=white)](https://codeberg.org/jeffersoncesarantunes)
 [![Discord](https://img.shields.io/badge/Discord-Jefferson-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1476405883733807247)
 [![Mastodon](https://img.shields.io/badge/Mastodon-@jeffersoncesar-6364FF?logo=mastodon&logoColor=white)](https://mastodon.social/@jeffersoncesar)
-[![GitHub](https://img.shields.io/badge/GitHub-Jefferson-181717?logo=github&logoColor=white)](https://github.com/jeffersoncesarantunes)
