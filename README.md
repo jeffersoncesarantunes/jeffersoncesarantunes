@@ -18,7 +18,7 @@
 
 ### 🛠️ Technical Stack & Environment
 * **OS (Daily Driver):** **OpenBSD** & **Arch Linux**
-* **Languages:** C (C99/C11), Bash, Python
+* **Languages:** C (C99/C11), Bash
 * **Tools:** AstroNvim, Git/Codeberg, GNU Make
 * **Focus:** Memory Forensics, Kernel Mitigations, POSIX Compliance
 
