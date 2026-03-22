@@ -18,7 +18,7 @@
 ---
 
 ### 🛠️ Technical Stack & Environment
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&width=200&lines=%24+whoami" alt="Whoami SVG" />
+*I daily drive OpenBSD and Arch Linux, utilizing AstroNvim for low-level development and security research.*
 
 * 🖥️ **OS:** **OpenBSD** & **Arch Linux**
 * 💻 **Languages:** `C11`, `Bash`, `Python`
@@ -29,7 +29,6 @@
 
 ### 🌐 Explore the Unix World
 <p align="center">
-  <i>Interested in security, stability, and freedom?</i><br><br>
   <a href="https://www.openbsd.org"><img src="https://img.shields.io/badge/OpenBSD-FBD12B?style=flat-square&logo=openbsd&logoColor=black" /></a>
   <a href="https://archlinux.org"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" /></a>
   <a href="https://blackarch.org"><img src="https://img.shields.io/badge/BlackArch-000000?style=flat-square&logo=arch-linux&logoColor=red" /></a>
