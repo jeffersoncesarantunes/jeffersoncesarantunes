@@ -1,8 +1,8 @@
 # <p align="center"> 🐡 Jefferson Cesar Antunes (0x4A6566666572736F6E) 🐧 </p>
 
 <p align="center">
-  <b>System Security Developer | OpenBSD & Linux Enthusiast</b><br>
-  <i>Constantly learning, auditing, and sharing knowledge.</i>
+  <b>Self-Taught System Security Developer | OpenBSD & Linux Enthusiast</b><br>
+  Constantly learning and sharing knowledge.
 </p>
 
 ---
