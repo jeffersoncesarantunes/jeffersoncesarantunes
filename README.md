@@ -37,7 +37,6 @@
 [![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)](https://linuxmint.com)
 [![openSUSE](https://img.shields.io/badge/openSUSE-73BA48?style=flat-square&logo=opensuse&logoColor=white)](https://www.opensuse.org)
 [![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=flat-square&logo=gentoo&logoColor=white)](https://www.gentoo.org)
-[![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=red-hat&logoColor=white)](https://www.redhat.com)
 
 ---
 
