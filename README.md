@@ -7,7 +7,7 @@
 
 ---
 
-### 📂 Core Engineering Projects
+### ​📂 Security Research & Labs
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | [**K-Scanner**](https://github.com/jeffersoncesarantunes/K-Scanner) | Modular Linux memory auditor for RWX region detection. | `C` |
