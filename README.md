@@ -1,4 +1,4 @@
-# <p align="center"> 🐡 0x4A6566666572736F6E (Jefferson Cesar Antunes) 🐧 </p>
+# <p align="center"> 🐡 Jefferson Cesar Antunes (0x4A6566666572736F6E) 🐧 </p>
 
 <p align="center">
   <b>System Security Developer | Kernel & Memory Forensics | Unix Enthusiast</b>
@@ -29,7 +29,6 @@
 [![OpenBSD](https://img.shields.io/badge/OpenBSD-FBD12B?style=flat-square&logo=openbsd&logoColor=black)](https://www.openbsd.org)
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org)
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557CF2?style=flat-square&logo=kali-linux&logoColor=white)](https://www.kali.org)
-[![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=flat-square&logo=arch-linux&logoColor=red)](https://blackarch.org)
 [![Parrot OS](https://img.shields.io/badge/Parrot_OS-00AEEF?style=flat-square&logo=parrot-security&logoColor=white)](https://www.parrotsec.org)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org)
 [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)](https://getfedora.org)
