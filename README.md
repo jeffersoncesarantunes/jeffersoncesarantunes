@@ -33,10 +33,11 @@
 [![Parrot OS](https://img.shields.io/badge/Parrot_OS-00AEEF?style=flat-square&logo=parrot-security&logoColor=white)](https://www.parrotsec.org)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org)
 [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)](https://getfedora.org)
-[![Xubuntu](https://img.shields.io/badge/Xubuntu-000000?style=flat-square&logo=xfce&logoColor=white)](https://xubuntu.org)
 [![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)](https://linuxmint.com)
 [![openSUSE](https://img.shields.io/badge/openSUSE-73BA48?style=flat-square&logo=opensuse&logoColor=white)](https://www.opensuse.org)
 [![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=flat-square&logo=gentoo&logoColor=white)](https://www.gentoo.org)
+[![Xubuntu](https://img.shields.io/badge/Xubuntu-000000?style=flat-square&logo=xfce&logoColor=white)](https://xubuntu.org)
+[![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=flat-square&logo=arch-linux&logoColor=red)](https://blackarch.org)
 
 ---
 
