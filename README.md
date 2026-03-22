@@ -1,7 +1,7 @@
 # <p align="center"> 🐡 Jefferson Cesar Antunes (0x4A6566666572736F6E) 🐧 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1500&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88;Self-Taught+System+Security+Developer+%E2%96%88;%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88;OpenBSD+%26+Linux+Enthusiast+%E2%96%88;%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88;Constantly+learning+%26+sharing+knowledge+%E2%96%88;%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Self-Taught+System+Security+Developer;OpenBSD+%26+Linux+Enthusiast;Constantly+learning+%26+sharing+knowledge" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,7 +18,8 @@
 ---
 
 ### 🛠️ Technical Stack & Environment
-> **`$ whoami`**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&width=200&lines=%24+whoami" alt="Whoami SVG" />
+
 * 🖥️ **OS:** **OpenBSD** & **Arch Linux**
 * 💻 **Languages:** `C11`, `Bash`, `Python`
 * ⌨️ **Tools:** AstroNvim, Git, GNU Make
