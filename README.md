@@ -1,7 +1,8 @@
 # <p align="center"> 🐡 Jefferson Cesar Antunes (0x4A6566666572736F6E) 🐧 </p>
 
 <p align="center">
-  <b>System Security Developer | Kernel & Memory Forensics | Unix Enthusiast</b>
+  <b>System Security Developer | OpenBSD & Linux Enthusiast</b><br>
+  <i>Constantly learning, auditing, and sharing knowledge.</i>
 </p>
 
 ---
@@ -37,6 +38,21 @@
 [![openSUSE](https://img.shields.io/badge/openSUSE-73BA48?style=flat-square&logo=opensuse&logoColor=white)](https://www.opensuse.org)
 [![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=flat-square&logo=gentoo&logoColor=white)](https://www.gentoo.org)
 [![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=red-hat&logoColor=white)](https://www.redhat.com)
+
+---
+
+### 📊 GitHub Stats
+![Jefferson's Stats](https://github-readme-stats.vercel.app/api?username=jeffersoncesarantunes&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersoncesarantunes&layout=compact&theme=radical&hide_border=true)
+
+---
+
+### 🤝 Contributing
+*Contributions are welcome! Please follow these rules to maintain project integrity:*
+
+* **C Development:** Prioritize memory safety (free all `malloc` calls) and follow C99/C11 standards. Use humanized comments for low-level logic.
+* **Bash Scripting:** Maintain POSIX compliance for portability between OpenBSD/Linux. Always quote variables.
+* **Bug Reports:** Open an issue with your environment details (Kernel version/Arch). For security vulnerabilities, contact me via private message.
 
 ---
 
