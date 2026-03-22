@@ -1,13 +1,14 @@
 # <p align="center"> 🐡 Jefferson Cesar Antunes (0x4A6566666572736F6E) 🐧 </p>
 
 <p align="center">
-  <b>Self-Taught System Security Developer | OpenBSD & Linux Enthusiast</b><br>
-  Constantly learning and sharing knowledge.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Self-Taught+System+Security+Developer;OpenBSD+%26+Linux+Enthusiast;Constantly+learning+and+sharing+knowledge" alt="Typing SVG" />
 </p>
 
 ---
 
-### ​📂 Security Research & Labs
+### 📂 Security Research & Labs
+*Independent projects developed through self-study and security research.*
+
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | [**K-Scanner**](https://github.com/jeffersoncesarantunes/K-Scanner) | Modular Linux memory auditor for RWX region detection. | `C` |
@@ -17,47 +18,54 @@
 ---
 
 ### 🛠️ Technical Stack & Environment
-* **OS (Daily Driver):** **OpenBSD** & **Arch Linux**
-* **Languages:** C (C99/C11), Bash
-* **Tools:** AstroNvim, Git/Codeberg, GNU Make
-* **Focus:** Memory Forensics, Kernel Mitigations, POSIX Compliance
+> **`$ whoami`**
+* 🖥️ **OS:** **OpenBSD** & **Arch Linux**
+* 💻 **Languages:** `C11`, `Bash`, `Python`
+* ⌨️ **Tools:** AstroNvim, Git, GNU Make
+* 🔍 **Focus:** Memory Forensics, Kernel Mitigations, POSIX Compliance
 
 ---
 
 ### 🌐 Explore the Unix World
-*Interested in security, stability, and freedom? Click the badges below to discover the power of OpenBSD and Linux:*
-
-[![OpenBSD](https://img.shields.io/badge/OpenBSD-FBD12B?style=flat-square&logo=openbsd&logoColor=black)](https://www.openbsd.org)
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557CF2?style=flat-square&logo=kali-linux&logoColor=white)](https://www.kali.org)
-[![Parrot OS](https://img.shields.io/badge/Parrot_OS-00AEEF?style=flat-square&logo=parrot-security&logoColor=white)](https://www.parrotsec.org)
-[![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org)
-[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)](https://getfedora.org)
-[![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)](https://linuxmint.com)
-[![openSUSE](https://img.shields.io/badge/openSUSE-73BA48?style=flat-square&logo=opensuse&logoColor=white)](https://www.opensuse.org)
-[![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=flat-square&logo=gentoo&logoColor=white)](https://www.gentoo.org)
-[![Xubuntu](https://img.shields.io/badge/Xubuntu-000000?style=flat-square&logo=xfce&logoColor=white)](https://xubuntu.org)
-[![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=flat-square&logo=arch-linux&logoColor=red)](https://blackarch.org)
+<p align="center">
+  <i>Interested in security, stability, and freedom?</i><br><br>
+  <a href="https://www.openbsd.org"><img src="https://img.shields.io/badge/OpenBSD-FBD12B?style=flat-square&logo=openbsd&logoColor=black" /></a>
+  <a href="https://archlinux.org"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" /></a>
+  <a href="https://blackarch.org"><img src="https://img.shields.io/badge/BlackArch-000000?style=flat-square&logo=arch-linux&logoColor=red" /></a>
+  <a href="https://www.kali.org"><img src="https://img.shields.io/badge/Kali_Linux-557CF2?style=flat-square&logo=kali-linux&logoColor=white" /></a>
+  <a href="https://xubuntu.org"><img src="https://img.shields.io/badge/Xubuntu-000000?style=flat-square&logo=xfce&logoColor=white" /></a>
+  <a href="https://www.debian.org"><img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" /></a>
+  <a href="https://getfedora.org"><img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" /></a>
+  <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" /></a>
+  <a href="https://linuxmint.com"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white" /></a>
+  <a href="https://www.opensuse.org"><img src="https://img.shields.io/badge/openSUSE-73BA48?style=flat-square&logo=opensuse&logoColor=white" /></a>
+  <a href="https://www.gentoo.org"><img src="https://img.shields.io/badge/Gentoo-54487A?style=flat-square&logo=gentoo&logoColor=white" /></a>
+  <a href="https://www.redhat.com"><img src="https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=red-hat&logoColor=white" /></a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-![Jefferson's Stats](https://github-readme-stats.vercel.app/api?username=jeffersoncesarantunes&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersoncesarantunes&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffersoncesarantunes&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersoncesarantunes&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
 ### 🤝 Contributing
 *Contributions are welcome! Please follow these rules to maintain project integrity:*
 
-* **C Development:** Prioritize memory safety (free all `malloc` calls) and follow C99/C11 standards. Use humanized comments for low-level logic.
-* **Bash Scripting:** Maintain POSIX compliance for portability between OpenBSD/Linux. Always quote variables.
-* **Bug Reports:** Open an issue with your environment details (Kernel version/Arch). For security vulnerabilities, contact me via private message.
+* **C Development:** Prioritize memory safety and C99/C11 standards.
+* **Bash Scripting:** Maintain POSIX compliance. Always quote variables.
+* **Bug Reports:** Open an issue with environment details. For vulnerabilities, contact me privately.
 
 ---
 
 ### 📫 Connect with me:
-[![X](https://img.shields.io/badge/j3ff3rsonc3sar-000000?logo=x&logoColor=white)](https://x.com/j3ff3rsonc3sar)
-[![Codeberg](https://img.shields.io/badge/Codeberg-Jefferson-2185D0?logo=codeberg&logoColor=white)](https://codeberg.org/jeffersoncesarantunes)
-[![Discord](https://img.shields.io/badge/Discord-Jefferson-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1476405883733807247)
-[![Mastodon](https://img.shields.io/badge/Mastodon-@jeffersoncesar-6364FF?logo=mastodon&logoColor=white)](https://mastodon.social/@jeffersoncesar)
+<p align="center">
+  <a href="https://x.com/j3ff3rsonc3sar"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
+  <a href="https://codeberg.org/jeffersoncesarantunes"><img src="https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=white" /></a>
+  <a href="https://discord.com/users/1476405883733807247"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" /></a>
+  <a href="https://mastodon.social/@jeffersoncesar"><img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white" /></a>
+</p>
