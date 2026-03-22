@@ -1,4 +1,4 @@
-# 0x4A6566666572736F6E (Jefferson Cesar Antunes) 🐧🐡
+# Jefferson Cesar Antunes /* 0x4A6566666572736F6E */ 🐧🐡
 
 > **System Security Developer | Business Management Graduate | Unix Enthusiast**
 
