@@ -62,7 +62,9 @@
 
 ---
 
-### 📫 Connect with me:
+### 📫 Get in Touch
+*Feel free to reach out! I'm always happy to connect, discuss security research, or collaborate with anyone interested in these projects.*
+
 <p align="center">
   <a href="https://x.com/j3ff3rsonc3sar"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
   <a href="https://codeberg.org/jeffersoncesarantunes"><img src="https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=white" /></a>
