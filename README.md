@@ -54,18 +54,24 @@ For me, security isn't about running a scanner—it's about building, breaking, 
   <a href="https://www.whonix.org"><img src="https://img.shields.io/badge/Whonix-3771C8?style=flat-square&logo=debian&logoColor=white" /></a>
   <a href="https://blackarch.org"><img src="https://img.shields.io/badge/BlackArch-000000?style=flat-square&logo=arch-linux&logoColor=red" /></a>
   <a href="https://www.kali.org"><img src="https://img.shields.io/badge/Kali_Linux-557CF2?style=flat-square&logo=kali-linux&logoColor=white" /></a>
+  <a href="https://xubuntu.org"><img src="https://img.shields.io/badge/Xubuntu-000000?style=flat-square&logo=xfce&logoColor=white" /></a>
   <a href="https://www.debian.org"><img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" /></a>
+  <a href="https://getfedora.org"><img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" /></a>
+  <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" /></a>
+  <a href="https://linuxmint.com"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white" /></a>
+  <a href="https://www.opensuse.org"><img src="https://img.shields.io/badge/openSUSE-73BA48?style=flat-square&logo=opensuse&logoColor=white" /></a>
   <a href="https://www.gentoo.org"><img src="https://img.shields.io/badge/Gentoo-54487A?style=flat-square&logo=gentoo&logoColor=white" /></a>
+  <a href="https://www.redhat.com"><img src="https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=red-hat&logoColor=white" /></a>
 </p>
 
-### 👾 Security & Forensics Resources
+### ☣️ Security & Forensics Resources
 *I've curated these links because they represent the "no-nonsense" side of security. If you want to stop scratching the surface and actually understand how systems are exploited and defended, these are the primary sources I rely on for my own research. They are raw, technical, and essential for anyone who values the "learn by doing" mindset.*
 
 <p align="center">
   <a href="https://www.phrack.org"><img src="https://img.shields.io/badge/Phrack_Magazine-000000?style=flat-square&logo=git&logoColor=white" /></a>
   <a href="https://volatilityfoundation.org"><img src="https://img.shields.io/badge/Volatility-FFD700?style=flat-square&logo=python&logoColor=black" /></a>
   <a href="https://www.kernel.org/doc/html/latest/admin-guide/LSM/index.html"><img src="https://img.shields.io/badge/Linux_Security_Modules-1793D1?style=flat-square&logo=linux&logoColor=white" /></a>
-  <a href="https://man.openbsd.org/"><img src="https://img.shields.io/badge/OpenBSD_Manuals-FBD12B?style=flat-square&logo=openbsd&logoColor=black" /></a>
+  <a href="https://www.openbsd.org/faq/index.html"><img src="https://img.shields.io/badge/OpenBSD_Documentation-FBD12B?style=flat-square&logo=openbsd&logoColor=black" /></a>
   <a href="https://pax.grsecurity.net/"><img src="https://img.shields.io/badge/PaX_Grsecurity-EE0000?style=flat-square&logo=red-hat&logoColor=white" /></a>
   <a href="https://www.trustedfirmware.org/"><img src="https://img.shields.io/badge/Trusted_Firmware-0091BD?style=flat-square&logo=arm&logoColor=white" /></a>
 </p>
