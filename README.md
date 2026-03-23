@@ -5,23 +5,23 @@
 </p>
 
 <p align="center">
-  <i>System Security Developer focused on low-level Unix internals</i>
+  <i>Auditing kernels and inspecting memory, one syscall at a time.</i>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-My daily life happens inside the **OpenBSD** and **Arch Linux** terminals. For me, these aren't just operating systems—they are living laboratories for security research and system hardening.
+I live in the **OpenBSD** and **Arch Linux** terminals, treating them as active labs for security research. My focus is on the "bare metal" side of the OS—where the most critical vulnerabilities (and defenses) are hidden.
 
-I prefer total control over the machine. This means I spend most of my time dealing with the "real" side of Unix: configuring isolated environments via **chroot**, managing manual mount points, optimizing the `fstab`, and fine-tuning **kernel parameters** to squeeze out every bit of security and performance.
+I don't believe in security through abstractions. I prefer the granular control of manual system hardening: isolating environments with **chroot**, managing strict **mount points** to prevent execution in `/tmp` or `/home`, and fine-tuning **kernel parameters** to minimize the attack surface. 
 
-My development philosophy follows a strict path:
-* **Core Focus:** I'd rather understand memory layouts and process states than rely on high-level abstractions.
-* **Minimalist Tools:** I build utilities in **C** and **POSIX-compliant Bash** that solve specific auditing and forensic problems.
-* **Hands-on Security:** I believe true security is born from simplicity and a deep grasp of how binaries interact with the hardware.
+My work is driven by a few core principles:
+* **Offensive Auditing:** Understanding how memory layouts and process states behave under pressure to build better mitigations.
+* **Pure C & POSIX Bash:** Writing lean, audit-friendly tools like **K-Scanner** and **OpenSec** without unnecessary bloat.
+* **Kernel Internals:** Deep-diving into syscalls and memory management to find where systems are most exposed.
 
-To me, low-level computing is a never-ending process of building, breaking, and analyzing systems directly on the **bare metal**.
+For me, security isn't about running a scanner—it's about building, breaking, and understanding exactly how the binary talks to the hardware.
 
 ---
 
@@ -78,7 +78,7 @@ To me, low-level computing is a never-ending process of building, breaking, and 
 *Contributions are welcome! Please follow these rules to maintain project integrity:*
 
 * **C Development:** Prioritize memory safety and C11/POSIX standards.
-* **Bash Scripting:** Keep it portable. Always quote variables and avoid "bashisms" where possible.
+* **Bash Scripting:** Keep it portable. Always quote variables and avoid "bashisms."
 * **Bug Reports:** Open an issue with environment details. For security vulnerabilities, reach out privately.
 
 ---
