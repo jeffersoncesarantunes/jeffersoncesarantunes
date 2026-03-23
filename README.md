@@ -64,7 +64,7 @@ For me, security is about understanding exactly how the binary talks to the hard
 </p>
 
 ### ☣️ Security & Forensics Resources
-*I've curated these links because they represent the "no-nonsense" side of security. If you want to stop scratching the surface and actually understand how systems are exploited and defended, these are the primary sources I rely on for my own research. They are raw, technical, and essential for anyone who values the "learn by doing" mindset.*
+*I've handpicked these resources because they strip away the marketing fluff and get straight to the technical core. To move beyond the surface and truly grasp how systems are compromised or hardened, you need to study the original sources. These are the essential pillars for anyone serious about low-level research and the "learn by doing" philosophy.*
 
 <p align="center">
   <a href="https://www.phrack.org"><img src="https://img.shields.io/badge/Phrack_Magazine-000000?style=flat-square&logo=git&logoColor=white" /></a>
@@ -72,6 +72,9 @@ For me, security is about understanding exactly how the binary talks to the hard
   <a href="https://www.kernel.org/doc/html/latest/admin-guide/LSM/index.html"><img src="https://img.shields.io/badge/Linux_Security_Modules-1793D1?style=flat-square&logo=linux&logoColor=white" /></a>
   <a href="https://www.openbsd.org/faq/index.html"><img src="https://img.shields.io/badge/OpenBSD_Documentation-FBD12B?style=flat-square&logo=openbsd&logoColor=black" /></a>
   <a href="https://pax.grsecurity.net/"><img src="https://img.shields.io/badge/PaX_Grsecurity-EE0000?style=flat-square&logo=red-hat&logoColor=white" /></a>
+  <a href="https://www.exploit-db.com/"><img src="https://img.shields.io/badge/Exploit_DB-CC0000?style=flat-square&logo=hack-the-box&logoColor=white" /></a>
+  <a href="https://googleprojectzero.blogspot.com/"><img src="https://img.shields.io/badge/Project_Zero-4285F4?style=flat-square&logo=google&logoColor=white" /></a>
+  <a href="https://attack.mitre.org/"><img src="https://img.shields.io/badge/Mitre_ATT%26CK-FF6600?style=flat-square&logo=target&logoColor=white" /></a>
   <a href="https://www.trustedfirmware.org/"><img src="https://img.shields.io/badge/Trusted_Firmware-0091BD?style=flat-square&logo=arm&logoColor=white" /></a>
 </p>
 
