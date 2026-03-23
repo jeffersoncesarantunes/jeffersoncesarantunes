@@ -1,4 +1,4 @@
-# <p align="center"> ⚔️ System Security Researcher & Low-level Developer </p>
+# <p align="center"> 🐡 System Security Researcher & Low-level Developer 🐧 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Self-Taught+System+Security+Developer;OpenBSD+%26+Linux+Enthusiast;Constantly+learning+%26+sharing+knowledge" alt="Typing SVG" />
@@ -12,16 +12,16 @@
 
 ### 🧠 About Me
 
-I spend my time deep inside **OpenBSD** and **Arch Linux**, stripping away abstractions to see how systems actually behave—from process memory layouts to kernel-level mitigations.
+My daily life happens inside the **OpenBSD** and **Arch Linux** terminals. For me, these aren't just operating systems—they are living laboratories for security research and system hardening.
 
-My workflow is centered on simplicity, auditability, and absolute control. No bloat, no unnecessary layers. Most of what I build comes to life in **C** or **POSIX-compliant Bash**, with a heavy focus on:
+I prefer total control over the machine. This means I spend most of my time dealing with the "real" side of Unix: configuring isolated environments via **chroot**, managing manual mount points, optimizing the `fstab`, and fine-tuning **kernel parameters** to squeeze out every bit of security and performance.
 
-* **Inspecting** raw system behavior instead of relying on high-level abstractions.
-* **Building** small, single-purpose security tools that do one thing right.
-* **Exploring** how memory, process states, and mitigation mechanisms fight (or fail) in the real world.
-* **Writing** clean, portable code that respects long-standing standards.
+My development philosophy follows a strict path:
+* **Core Focus:** I'd rather understand memory layouts and process states than rely on high-level abstractions.
+* **Minimalist Tools:** I build utilities in **C** and **POSIX-compliant Bash** that solve specific auditing and forensic problems.
+* **Hands-on Security:** I believe true security is born from simplicity and a deep grasp of how binaries interact with the hardware.
 
-To me, security isn't a product—it's a constant process of building, breaking, and analyzing systems on the bare metal.
+To me, low-level computing is a never-ending process of building, breaking, and analyzing systems directly on the **bare metal**.
 
 ---
 
@@ -78,7 +78,7 @@ To me, security isn't a product—it's a constant process of building, breaking,
 *Contributions are welcome! Please follow these rules to maintain project integrity:*
 
 * **C Development:** Prioritize memory safety and C11/POSIX standards.
-* **Bash Scripting:** Keep it portable. Always quote variables and avoid bashisms where possible.
+* **Bash Scripting:** Keep it portable. Always quote variables and avoid "bashisms" where possible.
 * **Bug Reports:** Open an issue with environment details. For security vulnerabilities, reach out privately.
 
 ---
