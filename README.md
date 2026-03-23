@@ -84,7 +84,7 @@ For me, security isn't about running a scanner—it's about building, breaking, 
 ---
 
 ### 📫 Get in Touch
-*Feel free to reach out! I'm always happy to connect, talk security research, or collaborate with anyone interested in these projects.*
+*Honestly, it's a privilege when someone takes an interest in what I'm building. If you have a critique, a suggestion, or just want to dive deep into a technical discussion—reach out. I genuinely value feedback and would love to hear how these tools can be improved.*
 
 <p align="center">
   <a href="https://x.com/j3ff3rsonc3sar"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
