@@ -1,8 +1,27 @@
-# <p align="center"> 🐡 Jefferson Cesar Antunes (0x4A6566666572736F6E) 🐧 </p>
+# <p align="center"> 🛡️ System Security Researcher & Low-level Developer </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Self-Taught+System+Security+Developer;OpenBSD+%26+Linux+Enthusiast;Constantly+learning+%26+sharing+knowledge" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <i>System Security Developer focused on low-level Unix internals</i>
+</p>
+
+---
+
+### 🧠 About Me
+
+I spend my time deep inside **OpenBSD** and **Arch Linux**, stripping away abstractions to see how systems actually behave—from process memory layouts to kernel-level mitigations.
+
+My workflow is centered on simplicity, auditability, and absolute control. No bloat, no unnecessary layers. Most of what I build comes to life in **C** or **POSIX-compliant Bash**, with a heavy focus on:
+
+* **Inspecting** raw system behavior instead of relying on high-level abstractions.
+* **Building** small, single-purpose security tools that do one thing right.
+* **Exploring** how memory, process states, and mitigation mechanisms fight (or fail) in the real world.
+* **Writing** clean, portable code that respects long-standing standards.
+
+To me, security isn't a product—it's a constant process of building, breaking, and analyzing systems on the bare metal.
 
 ---
 
@@ -58,14 +77,14 @@
 ### 🤝 Contributing
 *Contributions are welcome! Please follow these rules to maintain project integrity:*
 
-* **C Development:** Prioritize memory safety and C99/C11 standards.
-* **Bash Scripting:** Maintain POSIX compliance. Always quote variables.
-* **Bug Reports:** Open an issue with environment details. For vulnerabilities, contact me privately.
+* **C Development:** Prioritize memory safety and C11/POSIX standards.
+* **Bash Scripting:** Keep it portable. Always quote variables and avoid bashisms where possible.
+* **Bug Reports:** Open an issue with environment details. For security vulnerabilities, reach out privately.
 
 ---
 
 ### 📫 Get in Touch
-*Feel free to reach out! I'm always happy to connect, discuss security research, or collaborate with anyone interested in these projects.*
+*Feel free to reach out! I'm always happy to connect, talk security research, or collaborate with anyone interested in these projects.*
 
 <p align="center">
   <a href="https://x.com/j3ff3rsonc3sar"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
