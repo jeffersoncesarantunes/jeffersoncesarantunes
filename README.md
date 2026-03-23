@@ -12,15 +12,15 @@
 
 ### 📔 About Me
 
-I daily drive **OpenBSD** and **Arch Linux**, treating them as live labs for security research. My work is focused on the "bare metal" side of the OS—where the most critical vulnerabilities and defenses are hidden.
+My research is centered on the "bare metal" layer of the operating system—the space where the most critical vulnerabilities and defenses reside. I don't believe in security through abstractions; I prefer the raw, granular perspective of system internals.
 
-I don't believe in security through abstractions. My projects, like **K-Scanner** and **OpenSec**, are built to provide raw visibility into system internals. Instead of relying on automated scanners, I focus on:
+Projects like **K-Scanner** and **OpenSec** were born from a need for direct visibility. Instead of relying on high-level automated tools, I focus on:
 
-* **Offensive Auditing:** Analyzing memory layouts and process states under pressure to build resilient mitigations.
-* **Minimalist Engineering:** Developing lean tools in **Pure C** and **POSIX Bash** that are easy to audit and free of bloat.
-* **Kernel Internals:** Deep-diving into syscalls and memory management to identify where systems are most exposed.
+* **Offensive Auditing:** Stress-testing memory layouts and process states to develop more resilient mitigations.
+* **Minimalist Engineering:** Building audit-friendly tools in **Pure C** and **POSIX Bash** to ensure zero bloat and maximum transparency.
+* **Kernel Internals:** Exploring syscalls and memory management to find exactly where a system is most exposed.
 
-For me, security is about understanding exactly how the binary talks to the hardware. I build tools that peel back the layers of the OS to show what’s actually happening in memory.
+For me, security isn't about running a scanner—it's about understanding how the binary talks to the hardware.
 
 ---
 
@@ -36,12 +36,12 @@ For me, security is about understanding exactly how the binary talks to the hard
 ---
 
 ### 🛠️ Technical Stack & Environment
-*I daily drive OpenBSD and Arch Linux, utilizing AstroNvim for low-level development and security research.*
+*My daily workflow is built around OpenBSD and Arch Linux, using AstroNvim for low-level development and security auditing.*
 
-* 🖥️ **OS:** **OpenBSD** & **Arch Linux**
-* 💻 **Languages:** `C11`, `Bash`, `Python`
-* ⌨️ **Tools:** AstroNvim, Git, GNU Make
-* 🔍 **Focus:** Memory Forensics, Kernel Mitigations, POSIX Compliance
+* 🖥️ **Core OS:** **OpenBSD** & **Arch Linux**
+* 💻 **Languages:** `C11`, `Bash (POSIX)`, `Python`
+* ⌨️ **Editor:** AstroNvim (Neovim)
+* 🔍 **Focus:** Memory Forensics, Kernel Mitigations, Malware Analysis
 
 ---
 
@@ -64,7 +64,7 @@ For me, security is about understanding exactly how the binary talks to the hard
 </p>
 
 ### ☣️ Security & Forensics Resources
-*I've handpicked these resources because they strip away the marketing fluff and get straight to the technical core. To move beyond the surface and truly grasp how systems are compromised or hardened, you need to study the original sources. These are the essential pillars for anyone serious about low-level research and the "learn by doing" philosophy.*
+*I've handpicked these resources because they strip away the marketing fluff and get straight to the technical core. To move beyond the surface and truly grasp how systems are compromised or hardened, you need to study the primary pillars of low-level research.*
 
 <p align="center">
   <a href="https://www.phrack.org"><img src="https://img.shields.io/badge/Phrack_Magazine-000000?style=flat-square&logo=git&logoColor=white" /></a>
@@ -89,16 +89,12 @@ For me, security is about understanding exactly how the binary talks to the hard
 ---
 
 ### 🤝 Contributing
-*Contributions are welcome! Please follow these rules to maintain project integrity:*
-
-* **C Development:** Prioritize memory safety and C11/POSIX standards.
-* **Bash Scripting:** Keep it portable. Always quote variables and avoid "bashisms."
-* **Bug Reports:** Open an issue with environment details. For security vulnerabilities, reach out privately.
+*Contributions are welcome! I prioritize memory safety (C11/POSIX) and clean, portable code. If you find a bug or have a technical improvement, feel free to open an issue or reach out.*
 
 ---
 
 ### 📫 Get in Touch
-*Honestly, it's a privilege when someone takes an interest in what I'm building. If you have a critique, a suggestion, or just want to dive deep into a technical discussion—reach out. I genuinely value feedback and would love to hear how these tools can be improved.*
+*Honestly, it's a privilege when someone takes an interest in these projects. If you have a critique, a suggestion, or just want to dive deep into a technical discussion—reach out. I genuinely value feedback and am always down to chat about system security.*
 
 <p align="center">
   <a href="https://x.com/j3ff3rsonc3sar"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
