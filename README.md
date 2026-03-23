@@ -12,16 +12,15 @@
 
 ### 🧠 About Me
 
-I live in the **OpenBSD** and **Arch Linux** terminals, treating them as active labs for security research. My focus is on the "bare metal" side of the OS—where the most critical vulnerabilities (and defenses) are hidden.
+I daily drive **OpenBSD** and **Arch Linux**, treating them as live labs for security research. My work is focused on the "bare metal" side of the OS—where the most critical vulnerabilities and defenses are hidden.
 
-I don't believe in security through abstractions. I prefer the granular control of manual system hardening: isolating environments with **chroot**, managing strict **mount points** to prevent execution in `/tmp` or `/home`, and fine-tuning **kernel parameters** to minimize the attack surface. 
+I don't believe in security through abstractions. My projects, like **K-Scanner** and **OpenSec**, are built to provide raw visibility into system internals. Instead of relying on automated scanners, I focus on:
 
-My work is driven by a few core principles:
-* **Offensive Auditing:** Understanding how memory layouts and process states behave under pressure to build better mitigations.
-* **Pure C & POSIX Bash:** Writing lean, audit-friendly tools like **K-Scanner** and **OpenSec** without unnecessary bloat.
-* **Kernel Internals:** Deep-diving into syscalls and memory management to find where systems are most exposed.
+* **Offensive Auditing:** Analyzing memory layouts and process states under pressure to build resilient mitigations.
+* **Minimalist Engineering:** Developing lean tools in **Pure C** and **POSIX Bash** that are easy to audit and free of bloat.
+* **Kernel Internals:** Deep-diving into syscalls and memory management to identify where systems are most exposed.
 
-For me, security isn't about running a scanner—it's about building, breaking, and understanding exactly how the binary talks to the hardware.
+For me, security is about understanding exactly how the binary talks to the hardware. I build tools that peel back the layers of the OS to show what’s actually happening in memory.
 
 ---
 
