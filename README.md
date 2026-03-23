@@ -64,7 +64,7 @@ For me, security isn't about running a scanner—it's about understanding how th
 </p>
 
 ### ☣️ Security & Forensics Resources
-*I've handpicked these resources because they strip away the marketing fluff and get straight to the technical core. To move beyond the surface and truly grasp how systems are compromised or hardened, you need to study the primary pillars of low-level research.*
+*I've found these resources to be invaluable in my own journey through the Unix internals and system security. I use them constantly as technical references because they skip the marketing fluff and dive straight into the core concepts. I'm sharing them here as a roadmap for anyone looking to truly understand how systems are exploited or hardened at a low level—these are the real pillars of the "learn by doing" mindset.*
 
 <p align="center">
   <a href="https://www.phrack.org"><img src="https://img.shields.io/badge/Phrack_Magazine-000000?style=flat-square&logo=git&logoColor=white" /></a>
