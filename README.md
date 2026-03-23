@@ -10,7 +10,7 @@
 
 ---
 
-### 🧠 About Me
+### 📔 About Me
 
 I daily drive **OpenBSD** and **Arch Linux**, treating them as live labs for security research. My work is focused on the "bare metal" side of the OS—where the most critical vulnerabilities and defenses are hidden.
 
