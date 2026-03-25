@@ -51,9 +51,9 @@ For me, security isn't about running a scanner—it's about understanding how th
   <a href="https://www.openbsd.org"><img src="https://img.shields.io/badge/OpenBSD-FBD12B?style=flat-square&logo=openbsd&logoColor=black" /></a>
   <a href="https://archlinux.org"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" /></a>
   <a href="https://www.whonix.org"><img src="https://img.shields.io/badge/Whonix-3771C8?style=flat-square&logo=debian&logoColor=white" /></a>
-  <a href="https://blackarch.org"><img src="https://img.shields.io/badge/BlackArch-000000?style=flat-square&logo=arch-linux&logoColor=red" /></a>
+  <a href="https://blackarch.org"><img src="https://img.shields.io/badge/BlackArch-CC0000?style=flat-square&logo=arch-linux&logoColor=white" /></a>
   <a href="https://www.kali.org"><img src="https://img.shields.io/badge/Kali_Linux-557CF2?style=flat-square&logo=kali-linux&logoColor=white" /></a>
-  <a href="https://xubuntu.org"><img src="https://img.shields.io/badge/Xubuntu-000000?style=flat-square&logo=xfce&logoColor=white" /></a>
+  <a href="https://xubuntu.org"><img src="https://img.shields.io/badge/Xubuntu-0050EF?style=flat-square&logo=xfce&logoColor=white" /></a>
   <a href="https://www.debian.org"><img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" /></a>
   <a href="https://getfedora.org"><img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" /></a>
   <a href="https://ubuntu.com"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" /></a>
@@ -67,7 +67,7 @@ For me, security isn't about running a scanner—it's about understanding how th
 *I've found these resources to be invaluable in my own journey through the Unix internals and system security. I use them constantly as technical references because they skip the marketing fluff and dive straight into the core concepts. I'm sharing them here as a roadmap for anyone looking to truly understand how systems are exploited or hardened at a low level—these are the real pillars of the "learn by doing" mindset.*
 
 <p align="center">
-  <a href="https://www.phrack.org"><img src="https://img.shields.io/badge/Phrack_Magazine-000000?style=flat-square&logo=git&logoColor=white" /></a>
+  <a href="https://www.phrack.org"><img src="https://img.shields.io/badge/Phrack_Magazine-0073E1?style=flat-square&logo=gitbook&logoColor=white" /></a>
   <a href="https://volatilityfoundation.org"><img src="https://img.shields.io/badge/Volatility-FFD700?style=flat-square&logo=python&logoColor=black" /></a>
   <a href="https://www.kernel.org/doc/html/latest/admin-guide/LSM/index.html"><img src="https://img.shields.io/badge/Linux_Security_Modules-1793D1?style=flat-square&logo=linux&logoColor=white" /></a>
   <a href="https://www.openbsd.org/faq/index.html"><img src="https://img.shields.io/badge/OpenBSD_Documentation-FBD12B?style=flat-square&logo=openbsd&logoColor=black" /></a>
@@ -80,7 +80,7 @@ For me, security isn't about running a scanner—it's about understanding how th
 
 ---
 
-### 🧠 Memory Internals & Exploitation
+### 💾 Memory Internals & Exploitation
 *Understanding memory is understanding the system itself — from virtual address spaces to real-world exploitation primitives.*
 
 <p align="center">
