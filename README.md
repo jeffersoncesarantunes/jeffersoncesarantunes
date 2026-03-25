@@ -112,8 +112,8 @@ For me, security isn't about running a scanner—it's about understanding how th
 *Honestly, it's a privilege when someone takes an interest in these projects. If you have a critique, a suggestion, or just want to dive deep into a technical discussion—reach out. I genuinely value feedback and am always down to chat about system security.*
 
 <p align="center">
-  <a href="https://x.com/j3ff3rsonc3sar"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" /></a>
-  <a href="https://codeberg.org/jeffersoncesarantunes"><img src="https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=white" /></a>
+  <a href="https://x.com/j3ff3rsonc3sar"><img src="https://img.shields.io/badge/X-121212?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://github.com/seu-usuario"><img src="https://img.shields.io/badge/GitHub-238636?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://discord.com/users/1476405883733807247"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" /></a>
   <a href="https://mastodon.social/@jeffersoncesar"><img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white" /></a>
 </p>
