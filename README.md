@@ -85,12 +85,12 @@ For me, security isn't about running a scanner—it's about understanding how th
 
 <p align="center">
   <a href="https://phrack.org/"><img src="https://img.shields.io/badge/Phrack-000000?style=flat-square&logo=gitbook&logoColor=white" /></a>
-  <a href="https://phrack.org/news"><img src="https://img.shields.io/badge/Phrack_News-111111?style=flat-square&logo=rss&logoColor=orange" /></a>
+  <a href="https://phrack.org/news"><img src="https://img.shields.io/badge/Phrack_News-A81D33?style=flat-square&logo=rss&logoColor=orange" /></a>
   <a href="https://www.corelan.be/"><img src="https://img.shields.io/badge/Corelan-8B0000?style=flat-square&logo=target&logoColor=white" /></a>
-  <a href="https://shellphish.net/"><img src="https://img.shields.io/badge/Shellphish-222222?style=flat-square&logo=hack-the-box&logoColor=white" /></a>
-  <a href="https://github.com/shellphish/how2heap"><img src="https://img.shields.io/badge/how2heap-444444?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://sourceware.org/gdb/"><img src="https://img.shields.io/badge/GDB-000000?style=flat-square&logo=gnu&logoColor=white" /></a>
-  <a href="https://valgrind.org/"><img src="https://img.shields.io/badge/Valgrind-800000?style=flat-square&logo=linux-foundation&logoColor=white" /></a>
+  <a href="https://shellphish.net/"><img src="https://img.shields.io/badge/Shellphish-4CAF50?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/shellphish/how2heap"><img src="https://img.shields.io/badge/how2heap-73BA48?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://sourceware.org/gdb/"><img src="https://img.shields.io/badge/GDB-E95420?style=flat-square&logo=gnu&logoColor=white" /></a>
+  <a href="https://valgrind.org/"><img src="https://img.shields.io/badge/Valgrind-3771C8?style=flat-square&logo=linux-foundation&logoColor=white" /></a>
 </p>
 
 ---
