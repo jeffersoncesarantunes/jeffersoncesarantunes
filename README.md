@@ -39,7 +39,7 @@ For me, security isn't about running a scanner—it's about understanding how th
 *My daily workflow is built around OpenBSD and Arch Linux, using AstroNvim for low-level development and security auditing.*
 
 * 🖥️ **Core OS:** **OpenBSD** & **Arch Linux**
-* 💻 **Languages:** `C11`, `Bash (POSIX)`, `Python`
+* 💻 **Languages:** `C11`, `Bash (POSIX)`
 * ⌨️ **Editor:** AstroNvim (Neovim)
 * 🔍 **Focus:** Memory Forensics, Kernel Mitigations, Malware Analysis
 
@@ -76,6 +76,21 @@ For me, security isn't about running a scanner—it's about understanding how th
   <a href="https://googleprojectzero.blogspot.com/"><img src="https://img.shields.io/badge/Project_Zero-4285F4?style=flat-square&logo=google&logoColor=white" /></a>
   <a href="https://attack.mitre.org/"><img src="https://img.shields.io/badge/Mitre_ATT%26CK-FF6600?style=flat-square&logo=target&logoColor=white" /></a>
   <a href="https://www.trustedfirmware.org/"><img src="https://img.shields.io/badge/Trusted_Firmware-0091BD?style=flat-square&logo=arm&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧠 Memory Internals & Exploitation
+<i>Understanding memory is understanding the system itself — from virtual address spaces to real-world exploitation primitives.</i><br><br>
+
+<p align="center">
+  <a href="https://phrack.org/"><img src="https://img.shields.io/badge/Phrack-000000?style=flat-square" /></a>
+  <a href="https://phrack.org/news"><img src="https://img.shields.io/badge/Phrack_News-111111?style=flat-square" /></a>
+  <a href="https://www.corelan.be/"><img src="https://img.shields.io/badge/Corelan-8B0000?style=flat-square" /></a>
+  <a href="https://shellphish.net/"><img src="https://img.shields.io/badge/Shellphish-222222?style=flat-square" /></a>
+  <a href="https://github.com/shellphish/how2heap"><img src="https://img.shields.io/badge/how2heap-444444?style=flat-square" /></a>
+  <a href="https://sourceware.org/gdb/"><img src="https://img.shields.io/badge/GDB-000000?style=flat-square&logo=gnu&logoColor=white" /></a>
+  <a href="https://valgrind.org/"><img src="https://img.shields.io/badge/Valgrind-800000?style=flat-square" /></a>
 </p>
 
 ---
