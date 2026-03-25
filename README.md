@@ -80,21 +80,6 @@ For me, security isn't about running a scanner—it's about understanding how th
 
 ---
 
-### 🧠 Memory Internals & Low-Level Exploitation
-*Since my projects focus on memory auditing and forensic triage, I've curated these technical deep-dives. They cover everything from Virtual Memory Management to complex side-channel attacks and kernel-level mitigations.*
-
-<p align="center">
-  <a href="https://meltdownattack.com/"><img src="https://img.shields.io/badge/Meltdown_&_Spectre-000000?style=flat-square&logo=ghost&logoColor=white" /></a>
-  <a href="https://duo.com/labs/"><img src="https://img.shields.io/badge/Memory_Corruption_Labs-557CF2?style=flat-square&logo=cisco&logoColor=white" /></a>
-  <a href="https://lwn.net/Kernel/"><img src="https://img.shields.io/badge/LWN_Kernel_News-A81D33?style=flat-square&logo=linux&logoColor=white" /></a>
-  <a href="https://www.memoryforensics.org/"><img src="https://img.shields.io/badge/Memory_Forensics_Org-FFD700?style=flat-square&logo=python&logoColor=black" /></a>
-  <a href="https://hardenedlinux.github.io/"><img src="https://img.shields.io/badge/Hardened_Linux-1793D1?style=flat-square&logo=linux&logoColor=white" /></a>
-  <a href="https://madaidans-utils.github.io/linux.html"><img src="https://img.shields.io/badge/Linux_Kernel_Hardening-000000?style=flat-square&logo=target&logoColor=white" /></a>
-  <a href="https://solardiz.com/papers/"><img src="技术img.shields.io/badge/Openwall_Security_Papers-FBD12B?style=flat-square&logo=openbsd&logoColor=black" /></a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeffersoncesarantunes&show_icons=true&theme=neon&hide_border=true" />
