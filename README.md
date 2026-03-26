@@ -51,7 +51,7 @@ For me, security isn't about running a scanner—it's about understanding how th
   <a href="https://www.openbsd.org"><img src="https://img.shields.io/badge/OpenBSD-FBD12B?style=flat-square&logo=openbsd&logoColor=black" /></a>
   <a href="https://archlinux.org"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" /></a>
   <a href="https://www.whonix.org"><img src="https://img.shields.io/badge/Whonix-3771C8?style=flat-square&logo=debian&logoColor=white" /></a>
-  <a href="https://blackarch.org"><img src="https://img.shields.io/badge/BlackArch-CC0000?style=flat-square&logo=arch-linux&logoColor=white" /></a>
+ <a href="https://blackarch.org"><img src="https://img.shields.io/badge/BlackArch-1A1A1A?style=flat-square&logo=arch-linux&logoColor=FF0000" /></a>
   <a href="https://www.kali.org"><img src="https://img.shields.io/badge/Kali_Linux-557CF2?style=flat-square&logo=kali-linux&logoColor=white" /></a>
   <a href="https://xubuntu.org"><img src="https://img.shields.io/badge/Xubuntu-0050EF?style=flat-square&logo=xfce&logoColor=white" /></a>
   <a href="https://www.debian.org"><img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" /></a>
