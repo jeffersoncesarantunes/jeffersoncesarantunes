@@ -96,10 +96,11 @@ For me, security isn't about running a scanner—it's about understanding how th
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffersoncesarantunes&show_icons=true&theme=neon&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersoncesarantunes&layout=compact&theme=neon&hide_border=true&cache_seconds=1800" />
-</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeffersoncesarantunes&show_icons=true&theme=neon&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersoncesarantunes&layout=compact&theme=neon&hide_border=true" />
+</div>
 
 ---
 
