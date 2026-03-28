@@ -99,8 +99,6 @@ For me, security isn't about running a scanner—it's about understanding how th
 
 ![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=jeffersoncesarantunes&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jeffersoncesarantunes&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeffersoncesarantunes&theme=tokyonight&hide_border=true)
 
 ---
