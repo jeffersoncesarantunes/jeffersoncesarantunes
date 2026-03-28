@@ -101,6 +101,10 @@ For me, security isn't about running a scanner—it's about understanding how th
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeffersoncesarantunes&theme=tokyonight&hide_border=true)
 
+![Metrics](https://metrics.lecoq.io/jeffersoncesarantunes?base=header,repositories,community&theme=radical)
+
+![C Proficiency](https://img.shields.io/badge/Main_Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 ---
 
 ### 🤝 Contributing
