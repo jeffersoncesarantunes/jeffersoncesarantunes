@@ -97,9 +97,9 @@ For me, security isn't about running a scanner—it's about understanding how th
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeffersoncesarantunes&show_icons=true&theme=neon&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffersoncesarantunes&show_icons=true&theme=neon&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeffersoncesarantunes&layout=compact&theme=neon&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersoncesarantunes&layout=compact&theme=neon&hide_border=true)
 
 ---
 
