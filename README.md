@@ -24,6 +24,26 @@ For me, security isn't about running a scanner—it's about understanding how th
 
 ---
 
+### 📫 Get in Touch
+*Honestly, it's a privilege when someone takes an interest in these projects. If you have a critique, a suggestion, or just want to dive deep into a technical discussion—reach out. I genuinely value feedback and am always down to chat about system security.*
+
+<p align="center">
+  <a href="https://x.com/j3ff3rsonc3sar"><img src="https://img.shields.io/badge/X-202327?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://codeberg.org/jeffersoncesarantunes"><img src="https://img.shields.io/badge/Codeberg-2185D0?style=flat-square&logo=codeberg&logoColor=white" /></a>
+  <a href="https://discord.com/users/1476405883733807247"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" /></a>
+  <a href="https://mastodon.social/@jeffersoncesar"><img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=jeffersoncesarantunes&show_icons=true&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeffersoncesarantunes&theme=tokyonight&hide_border=true)
+
+---
+
 ### 📂 Security Research & Labs
 *Independent projects developed through self-study and security research.*
 
@@ -95,25 +115,5 @@ For me, security isn't about running a scanner—it's about understanding how th
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=jeffersoncesarantunes&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeffersoncesarantunes&theme=tokyonight&hide_border=true)
-
----
-
 ### 🤝 Contributing
 *Contributions are welcome! I prioritize memory safety (C11/POSIX) and clean, portable code. If you find a bug or have a technical improvement, feel free to open an issue or reach out.*
-
----
-
-### 📫 Get in Touch
-*Honestly, it's a privilege when someone takes an interest in these projects. If you have a critique, a suggestion, or just want to dive deep into a technical discussion—reach out. I genuinely value feedback and am always down to chat about system security.*
-
-<p align="center">
-  <a href="https://x.com/j3ff3rsonc3sar"><img src="https://img.shields.io/badge/X-202327?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="https://codeberg.org/jeffersoncesarantunes"><img src="https://img.shields.io/badge/Codeberg-2185D0?style=flat-square&logo=codeberg&logoColor=white" /></a>
-  <a href="https://discord.com/users/1476405883733807247"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" /></a>
-  <a href="https://mastodon.social/@jeffersoncesar"><img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white" /></a>
-</p>
