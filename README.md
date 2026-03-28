@@ -97,7 +97,7 @@ For me, security isn't about running a scanner—it's about understanding how th
 
 ### 📊 GitHub Stats
 
-![Metrics](https://metrics.lecoq.io/jeffersoncesarantunes?base=header,repositories,community&theme=neon)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeffersoncesarantunes&show_icons=true&theme=neon)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersoncesarantunes&layout=compact&theme=neon&hide_border=true)
 
