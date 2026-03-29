@@ -72,6 +72,7 @@
 ---
 
 ### 🌐 Explore the Unix World
+
 <p align="center">
 *Just a few examples from the Unix world — every distribution has its own purpose and something to teach.*
   <a href="https://www.openbsd.org"><img src="https://img.shields.io/badge/OpenBSD-FBD12B?style=flat-square&logo=openbsd&logoColor=black" /></a>
