@@ -22,7 +22,7 @@
 
 * **Push things to the limit:** stress memory layouts and process behavior until something breaks.
 * **Keep it simple:** small and transparent tools in **C** and **POSIX Bash**.
-* **Understand what matters:** syscalls, memory management, and where the system is really exposed.*
+* **Understand what matters:** syscalls, memory management, and where the system is really exposed.
 
 *In the end, security isn’t about running tools — it’s about understanding what’s really going on under the hood.*
 
@@ -61,12 +61,13 @@
 ---
 
 ### 🛠️ Technical Stack & Environment
-*My daily workflow is built around OpenBSD and Arch Linux, using AstroNvim for low-level development and security auditing.*
+
+*This is what I use on a daily basis for development and security research — nothing fancy, just tools that get the job done.*
 
 * 🖥️ **Core OS:** **OpenBSD** & **Arch Linux**
 * 💻 **Languages:** `C11`, `Bash (POSIX)`
 * ⌨️ **Editor:** AstroNvim (Neovim)
-* 🔍 **Focus:** Memory Forensics, Kernel Mitigations, Malware Analysis
+* 🔍 **Focus:** Memory Forensics, Kernel Mitigations, Malware Analysis.
 
 ---
 
