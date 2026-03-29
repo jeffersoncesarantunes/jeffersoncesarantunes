@@ -1,5 +1,7 @@
 # <p align="center"> 🐡 System Security Researcher & Low-level Developer 🐧 </p>
 
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Self-Taught+System+Security+Developer;OpenBSD+%26+Linux+Enthusiast;Constantly+learning+%26+sharing+knowledge" alt="Typing SVG" />
 </p>
