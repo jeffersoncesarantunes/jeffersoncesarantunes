@@ -72,7 +72,7 @@
 
 ### 🌐 Explore the Unix World
 <p align="center">
-  <i>Just a few examples from the Unix world — every distribution has its own purpose and something to teach.</i><br><br>
+*Just a few examples from the Unix world — every distribution has its own purpose and something to teach.*
   <a href="https://www.openbsd.org"><img src="https://img.shields.io/badge/OpenBSD-FBD12B?style=flat-square&logo=openbsd&logoColor=black" /></a>
   <a href="https://archlinux.org"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" /></a>
   <a href="https://www.whonix.org"><img src="https://img.shields.io/badge/Whonix-3771C8?style=flat-square&logo=debian&logoColor=white" /></a>
@@ -121,4 +121,5 @@
 ---
 
 ### 🤝 Contributing
-*Contributions are welcome! I prioritize memory safety (C11/POSIX) and clean, portable code. If you find a bug or have a technical improvement, feel free to open an issue or reach out.*
+
+*If you want to contribute, feel free — seriously. I care a lot about keeping things simple, safe, and transparent, especially around memory and low-level code. If you notice something off or have an idea to improve things, just open an issue or reach out.*
