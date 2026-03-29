@@ -73,8 +73,8 @@
 
 ### 🌐 Explore the Unix World
 
-<p align="center">
 *Just a few examples from the Unix world — every distribution has its own purpose and something to teach.*
+<p align="center">
   <a href="https://www.openbsd.org"><img src="https://img.shields.io/badge/OpenBSD-FBD12B?style=flat-square&logo=openbsd&logoColor=black" /></a>
   <a href="https://archlinux.org"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" /></a>
   <a href="https://www.whonix.org"><img src="https://img.shields.io/badge/Whonix-3771C8?style=flat-square&logo=debian&logoColor=white" /></a>
