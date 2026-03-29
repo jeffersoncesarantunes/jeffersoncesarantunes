@@ -125,4 +125,4 @@
 
 ### 🤝 Contributing
 
-*If you want to contribute, feel free — seriously. I care a lot about keeping things simple, safe, and transparent, especially around memory and low-level code. If you notice something off or have an idea to improve things, just open an issue or reach out.*
+*If you want to contribute, feel free . I care a lot about keeping things simple, safe, and transparent, especially around memory and low-level code. If you notice something off or have an idea to improve things, just open an issue or reach out.*
