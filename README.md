@@ -89,6 +89,8 @@
   <a href="https://www.redhat.com"><img src="https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=red-hat&logoColor=white" /></a>
 </p>
 
+---
+
 ### ☣️ Security & Forensics Resources
 *These are some resources I personally use for studying and going deeper into system security and Unix internals. If you're on the same path, they might help you as well.*
 
