@@ -12,20 +12,25 @@
 
 ### 📔 About Me
 
-My research is centered on the "bare metal" layer of the operating system—the space where the most critical vulnerabilities and defenses reside. I don't believe in security through abstractions; I prefer the raw, granular perspective of system internals.
+*I like staying close to the "bare metal" — where the operating system really lives and where things can actually break.*
 
-Projects like **K-Scanner** and **OpenSec** were born from a need for direct visibility. Instead of relying on high-level automated tools, I focus on:
+*I’m not a big fan of relying on abstractions. I prefer to understand what’s going on underneath: how memory is laid out, how processes behave, and where the system actually fails to protect itself.*
 
-* **Offensive Auditing:** Stress-testing memory layouts and process states to develop more resilient mitigations.
-* **Minimalist Engineering:** Building audit-friendly tools in **Pure C** and **POSIX Bash** to ensure zero bloat and maximum transparency.
-* **Kernel Internals:** Exploring syscalls and memory management to find exactly where a system is most exposed.
+*Projects like **K-Scanner** and **OpenSec** came from that mindset. I just wanted to see things more clearly — without layers hiding what’s really happening.*
 
-For me, security isn't about running a scanner—it's about understanding how the binary talks to the hardware.
+*Most of what I build follows a few simple ideas:*
+
+* **Push things to the limit:** stress memory layouts and process behavior until something breaks.
+* **Keep it simple:** small and transparent tools in **C** and **POSIX Bash**.
+* **Understand what matters:** syscalls, memory management, and where the system is really exposed.*
+
+*In the end, security isn’t about running tools — it’s about understanding what’s really going on under the hood.*
 
 ---
 
 ### 📫 Get in Touch
-*Honestly, it's a privilege when someone takes an interest in these projects. If you have a critique, a suggestion, or just want to dive deep into a technical discussion—reach out. I genuinely value feedback and am always down to chat about system security.*
+
+*It really means a lot when someone shows interest in these projects. If you’ve got feedback, ideas, or just want to talk about system security, feel free to reach out — I’m always up for a good conversation.*
 
 <p align="center">
   <a href="https://x.com/j3ff3rsonc3sar"><img src="https://img.shields.io/badge/X-202327?style=flat-square&logo=x&logoColor=white" /></a>
@@ -67,7 +72,7 @@ For me, security isn't about running a scanner—it's about understanding how th
 
 ### 🌐 Explore the Unix World
 <p align="center">
-  <i>These are just a few notable examples from the vast Unix ecosystem; every distribution has its own purpose and value.</i><br><br>
+  <i>Just a few examples from the Unix world — every distribution has its own purpose and something to teach.</i><br><br>
   <a href="https://www.openbsd.org"><img src="https://img.shields.io/badge/OpenBSD-FBD12B?style=flat-square&logo=openbsd&logoColor=black" /></a>
   <a href="https://archlinux.org"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" /></a>
   <a href="https://www.whonix.org"><img src="https://img.shields.io/badge/Whonix-3771C8?style=flat-square&logo=debian&logoColor=white" /></a>
@@ -84,7 +89,7 @@ For me, security isn't about running a scanner—it's about understanding how th
 </p>
 
 ### ☣️ Security & Forensics Resources
-*I've found these resources to be invaluable in my own journey through the Unix internals and system security. I use them constantly as technical references because they skip the marketing fluff and dive straight into the core concepts. I'm sharing them here as a roadmap for anyone looking to truly understand how systems are exploited or hardened at a low level—these are the real pillars of the "learn by doing" mindset.*
+*These are some resources I personally use for studying and going deeper into system security and Unix internals. If you're on the same path, they might help you as well.*
 
 <p align="center">
   <a href="https://www.phrack.org"><img src="https://img.shields.io/badge/Phrack_Magazine-0073E1?style=flat-square&logo=gitbook&logoColor=white" /></a>
@@ -101,7 +106,7 @@ For me, security isn't about running a scanner—it's about understanding how th
 ---
 
 ### 💾 Memory Internals & Exploitation
-*Understanding memory is understanding the system itself — from virtual address spaces to real-world exploitation primitives.*
+*To understand memory is to understand the system itself — from virtual address spaces to real-world exploitation.*
 
 <p align="center">
   <a href="https://phrack.org/"><img src="https://img.shields.io/badge/Phrack-557CF2?style=flat-square&logo=gitbook&logoColor=white" /></a>
