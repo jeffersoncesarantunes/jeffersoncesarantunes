@@ -21,7 +21,7 @@ Projects like **K-Scanner** and **OpenSec** come from this mindset — building 
 Most of my work follows a few core principles:
 
 * **Push systems to their limits:** stress memory layouts and process behavior until edge cases appear.
-* **Keep it minimal and transparent:** small tools written in **C** and **POSIX Shell**.
+* **Keep it minimal and transparent:** small tools written in **C** and **Bash**.
 * **Focus on what matters:** syscalls, memory management, and real exposure points.
 
 Security is not about running tools — it’s about understanding how systems actually behave under pressure.
@@ -59,7 +59,7 @@ Security is not about running tools — it’s about understanding how systems a
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | [**K-Scanner**](https://github.com/jeffersoncesarantunes/K-Scanner) | RWX memory region detection and analysis tool for Linux process auditing. | `C` |
-| [**S.I.R.E.N**](https://github.com/jeffersoncesarantunes/S.I.R.E.N) | Interactive system triage tool for live forensic analysis and auditing. | `POSIX Shell` |
+| [**S.I.R.E.N**](https://github.com/jeffersoncesarantunes/S.I.R.E.N) | Interactive system triage tool for live forensic analysis and auditing. | `Bash` |
 | [**OpenSec**](https://github.com/jeffersoncesarantunes/OpenSec) | OpenBSD mitigation auditor (W^X, ASLR, pledge, unveil) at process level. | `C` |
 
 ---
@@ -69,7 +69,7 @@ Security is not about running tools — it’s about understanding how systems a
 *Daily tools and environment used for system development and security research.*
 
 * 🖥️ **Core OS:** OpenBSD & Arch Linux  
-* 💻 **Languages:** C11, POSIX Shell  
+* 💻 **Languages:** C11, Bash  
 * ⌨️ **Editor:** Neovim (AstroNvim)  
 * 🔍 **Focus:** Memory Forensics, Kernel Mitigations, Process Behavior & Exploit Surface Analysis  
 
