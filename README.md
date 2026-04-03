@@ -36,7 +36,6 @@ Security is not about running tools — it’s about understanding how systems a
 
 <p align="center">
   <a href="https://x.com/j3ff3rsonc3sar"><img src="https://img.shields.io/badge/X-202327?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="https://github.com/jeffersoncesarantunes"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://codeberg.org/jeffersoncesarantunes"><img src="https://img.shields.io/badge/Codeberg-2185D0?style=flat-square&logo=codeberg&logoColor=white" /></a>
   <a href="https://discord.com/users/1476405883733807247"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" /></a>
   <a href="https://mastodon.social/@jeffersoncesar"><img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white" /></a>
