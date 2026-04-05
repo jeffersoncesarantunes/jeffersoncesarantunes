@@ -1,12 +1,8 @@
 # <p align="center"> 🐡 System Security Researcher | Low-Level & Kernel-Focused Developer 🐧 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cradley&size=26&pause=1000&color=33FF33&center=true&vCenter=true&width=700&lines=Self-Taught+System+Security+Developer%E2%96%88;OpenBSD+%26+Linux+Enthusiast%E2%96%88;Kernel+%26+Memory+Internals%E2%96%88;Constantly+learning+%26+sharing+knowledge%E2%96%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cradley&size=22&pause=1000&color=33FF33&center=true&vCenter=true&width=600&lines=Self-Taught+System+Security+Developer;OpenBSD+%26+Linux+Enthusiast;Kernel+%26+Memory+Internals;Constantly+learning+%26+sharing+knowledge" alt="Typing SVG" />
 </p>
-
----
 
 <p align="center">
   <i>Auditing kernels and inspecting memory — one syscall at a time.</i>
