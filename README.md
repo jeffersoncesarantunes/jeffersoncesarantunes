@@ -36,7 +36,6 @@ Security is not about running tools — it’s about understanding how systems a
 
 <p align="center">
   <a href="https://matrix.to/#/@striderhiryu:matrix.org"><img src="https://img.shields.io/badge/Matrix-006B4D?style=flat-square&logo=matrix&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Tox-5EAF46?style=flat-square&logo=tox&logoColor=white" />
   <a href="https://i.delta.chat/#1E8501BD6D5C14CF8D74C74B892712E950E767D9&i=iAIMyKnzMEgRMpvhWYlnKsI-&s=3TSeYg9qn3g0jQyvfcp6w3H1&a=opzynz5ie%40nine.testrun.org&n=Strider+Hiryu"><img src="https://img.shields.io/badge/DeltaChat-422863?style=flat-square&logo=delta-chat&logoColor=white" /></a>
   <a href="https://x.com/j3ff3rsonc3sar"><img src="https://img.shields.io/badge/X-202327?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="https://codeberg.org/jeffersoncesarantunes"><img src="https://img.shields.io/badge/Codeberg-2185D0?style=flat-square&logo=codeberg&logoColor=white" /></a>
