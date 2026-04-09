@@ -44,10 +44,6 @@ Security is not about running tools — it’s about understanding how systems a
   <a href="https://mastodon.social/@jeffersoncesar"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <strong>Tox ID:</strong> <code>E26BDD6220110341E81CF931982D6201CD1C1D55625D931350CCA88927BC445F0357BA3EF490</code>
-</p>
-
 ---
 
 ### 📊 GitHub Stats
