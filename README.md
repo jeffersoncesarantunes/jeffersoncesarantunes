@@ -60,6 +60,7 @@ Security is not about running tools — it’s about understanding how systems a
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| [**LinSpec**](https://github.com/jeffersoncesarantunes/LinSpec) | Forensic kernel hardening audit tool for identifying defensive vulnerabilities. | `C` |
 | [**K-Scanner**](https://github.com/jeffersoncesarantunes/K-Scanner) | RWX memory region detection and analysis tool for Linux process auditing. | `C` |
 | [**S.I.R.E.N**](https://github.com/jeffersoncesarantunes/S.I.R.E.N) | Interactive system triage tool for live forensic analysis and auditing. | `Bash` |
 | [**OpenSec**](https://github.com/jeffersoncesarantunes/OpenSec) | OpenBSD mitigation auditor (W^X, ASLR, pledge, unveil) at process level. | `C` |
