@@ -1,37 +1,43 @@
+cat << 'EOF' > README.md
 # <p align="center"> 🐡 System Security Researcher | Low-Level & Kernel-Focused Developer 🐧 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cradley&size=22&pause=1000&color=33FF33&center=true&vCenter=true&width=600&lines=Self-Taught+System+Security+Developer;OpenBSD+%26+Linux+Enthusiast;Kernel+%26+Memory+Internals;Constantly+learning+%26+sharing+knowledge" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cradley&size=22&pause=1000&color=33FF33&center=true&vCenter=true&width=600&lines=Self-Taught+System+Security+Developer;OpenBSD+%26+Linux+Enthusiast;Kernel+%26+Memory+Internals;Learning+by+breaking+things" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <i>Auditing kernels and inspecting memory — one syscall at a time.</i>
+  <i>Auditing kernels and inspecting memory — one syscall at a time.</i><br>
+  <i>Mostly learning by breaking things and figuring out why.</i>
 </p>
 
 ---
 
 ### 📔 About Me
 
-I focus on working close to the system boundary — where operating systems actually behave, fail, and expose assumptions.
+I'm a self-taught developer focused on system security and low-level behavior.
 
-I avoid unnecessary abstractions and prefer understanding what happens underneath: memory layout, process behavior, and how the system enforces (or fails to enforce) its own protections.
+I didn’t come from a formal background in this area — most of what I know came from curiosity, reading documentation, breaking systems in VMs, and trying to understand what actually happened under the hood.
 
-Projects like **K-Scanner** and **OpenSec** come from this mindset — building small, transparent tools to observe and validate system behavior without hidden layers.
+I like working close to the system boundary — where abstractions stop helping and you have to deal with memory layout, process behavior, and real execution flow.
 
-Most of my work follows a few core principles:
+Instead of relying on large frameworks, I prefer small and transparent tools written in **C** and **Bash**, where I can see exactly what is happening.
 
-* **Push systems to their limits:** stress memory layouts and process behavior until edge cases appear.
-* **Keep it minimal and transparent:** small tools written in **C** and **Bash**.
-* **Focus on what matters:** syscalls, memory management, and real exposure points.
+Projects like **K-Scanner**, **LinSpec**, **S.I.R.E.N**, and **OpenSec** come from that mindset — building simple tools to observe, validate, and question how systems behave in real conditions.
 
-Security is not about running tools — it’s about understanding how systems actually behave under pressure.
+Most of what I do follows a few ideas:
+
+* Push systems until edge cases start to show up
+* Keep things minimal and inspectable
+* Focus on real behavior instead of assumptions
+
+Security, for me, isn’t about running tools — it’s about understanding what the system is actually doing when things start to break.
 
 ---
 
 ### 📫 Get in Touch
 
 <p align="center">
-  <i>Interested in system security, low-level internals, or these projects? Feel free to reach out — always open to a good conversation.</i>
+  <i>If you're into low-level systems, memory internals, or just like breaking things to understand them — feel free to reach out.</i>
 </p>
 
 <p align="center">
@@ -60,27 +66,27 @@ Security is not about running tools — it’s about understanding how systems a
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**LinSpec**](https://github.com/jeffersoncesarantunes/LinSpec) | Forensic kernel hardening audit tool for identifying defensive vulnerabilities. | `C` |
-| [**K-Scanner**](https://github.com/jeffersoncesarantunes/K-Scanner) | RWX memory region detection and analysis tool for Linux process auditing. | `C` |
-| [**S.I.R.E.N**](https://github.com/jeffersoncesarantunes/S.I.R.E.N) | Interactive system triage tool for live forensic analysis and auditing. | `Bash` |
-| [**OpenSec**](https://github.com/jeffersoncesarantunes/OpenSec) | OpenBSD mitigation auditor (W^X, ASLR, pledge, unveil) at process level. | `C` |
+| [**LinSpec**](https://github.com/jeffersoncesarantunes/LinSpec) | Kernel hardening audit tool focused on identifying real security gaps. | `C` |
+| [**K-Scanner**](https://github.com/jeffersoncesarantunes/K-Scanner) | RWX memory detection and live process analysis for Linux. | `C` |
+| [**S.I.R.E.N**](https://github.com/jeffersoncesarantunes/S.I.R.E.N) | Audit-aware memory acquisition and forensic triage tool. | `Bash` |
+| [**OpenSec**](https://github.com/jeffersoncesarantunes/OpenSec) | OpenBSD mitigation auditor (W^X, ASLR, pledge, unveil). | `C` |
 
 ---
 
 ### 🛠️ Technical Stack & Environment
 
-*Daily tools and environment used for system development and security research.*
+*Daily tools and environment used for system-level development and security research.*
 
-* 🖥️ **Core OS:** OpenBSD & Arch Linux  
-* 💻 **Languages:** C11, Bash  
-* ⌨️ **Editor:** Neovim (AstroNvim)  
-* 🔍 **Focus:** Memory Forensics, Kernel Mitigations, Process Behavior & Exploit Surface Analysis  
+* 🖥️ **Core OS:** OpenBSD & Arch Linux
+* 💻 **Languages:** C11, Bash
+* ⌨️ **Editor:** Neovim (AstroNvim)
+* 🔍 **Focus:** Memory forensics, kernel mitigations, process behavior, and real exploit surfaces
 
 ---
 
 ### 🌐 Explore the Unix World
 
-*Different systems reflect different design philosophies — from minimalism to security hardening.*
+*Different systems reflect different design choices — from minimalism to aggressive hardening.*
 
 <p align="center">
   <a href="https://www.openbsd.org"><img src="https://img.shields.io/badge/OpenBSD-FBD12B?style=flat-square&logo=openbsd&logoColor=black" /></a>
@@ -102,7 +108,7 @@ Security is not about running tools — it’s about understanding how systems a
 
 ### ☣️ Security & Forensics Resources
 
-*Selected resources for studying system security, kernel internals, and real-world exploitation.*
+*Resources I’ve used and still come back to when digging deeper into systems.*
 
 <p align="center">
   <a href="https://www.phrack.org"><img src="https://img.shields.io/badge/Phrack_Magazine-0073E1?style=flat-square&logo=gitbook&logoColor=white" /></a>
@@ -120,7 +126,7 @@ Security is not about running tools — it’s about understanding how systems a
 
 ### 💾 Memory Internals & Exploitation
 
-*Understanding memory is fundamental to understanding system behavior — from virtual memory to real-world exploitation.*
+*Understanding memory is where things start to make sense — and also where they start to break.*
 
 <p align="center">
   <a href="https://www.corelan.be/"><img src="https://img.shields.io/badge/Corelan-8B0000?style=flat-square&logo=target&logoColor=white" /></a>
@@ -134,4 +140,5 @@ Security is not about running tools — it’s about understanding how systems a
 
 ### 🤝 Contributing
 
-*Contributions are welcome. I value simplicity, safety, and transparency — especially in memory-related and low-level code. If you have ideas, improvements, or find something interesting, feel free to open an issue or reach out.*
+*Contributions are welcome. I care about simplicity, safety, and transparency — especially in low-level and memory-related code. If you have ideas, improvements, or just want to discuss something interesting, feel free to open an issue or reach out.*
+EOF
