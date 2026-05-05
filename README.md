@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # <p align="center"> 🐡 System Security Researcher | Low-Level & Kernel-Focused Developer 🐧 </p>
 
 <p align="center">
@@ -141,4 +140,3 @@ Security, for me, isn’t about running tools — it’s about understanding wha
 ### 🤝 Contributing
 
 *Contributions are welcome. I care about simplicity, safety, and transparency — especially in low-level and memory-related code. If you have ideas, improvements, or just want to discuss something interesting, feel free to open an issue or reach out.*
-EOF
