@@ -52,10 +52,15 @@ Security, for me, isn’t about running tools — it’s about understanding wha
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jeffersoncesarantunes&show_icons=true&theme=radical&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=jeffersoncesarantunes&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
@@ -119,7 +124,7 @@ Security, for me, isn’t about running tools — it’s about understanding wha
   <a href="https://googleprojectzero.blogspot.com/"><img src="https://img.shields.io/badge/Project_Zero-4285F4?style=flat-square&logo=google&logoColor=white" /></a>
   <a href="https://attack.mitre.org/"><img src="https://img.shields.io/badge/Mitre_ATT%26CK-FF6600?style=flat-square&logo=target&logoColor=white" /></a>
   <a href="https://www.trustedfirmware.org/"><img src="https://img.shields.io/badge/Trusted_Firmware-0091BD?style=flat-square&logo=arm&logoColor=white" /></a>
-</p>
+</p>https://streak-stats.demolab.com/?user=jeffersoncesarantunes
 
 ---
 
