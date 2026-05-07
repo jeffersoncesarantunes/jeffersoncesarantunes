@@ -124,7 +124,6 @@ Security, for me, isn’t about running tools — it’s about understanding wha
   <a href="https://googleprojectzero.blogspot.com/"><img src="https://img.shields.io/badge/Project_Zero-4285F4?style=flat-square&logo=google&logoColor=white" /></a>
   <a href="https://attack.mitre.org/"><img src="https://img.shields.io/badge/Mitre_ATT%26CK-FF6600?style=flat-square&logo=target&logoColor=white" /></a>
   <a href="https://www.trustedfirmware.org/"><img src="https://img.shields.io/badge/Trusted_Firmware-0091BD?style=flat-square&logo=arm&logoColor=white" /></a>
-</p>https://streak-stats.demolab.com/?user=jeffersoncesarantunes
 
 ---
 
