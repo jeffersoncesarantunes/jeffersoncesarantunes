@@ -70,7 +70,7 @@ Security, for me, isn’t about running tools — it’s about understanding wha
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**Linux Forensics Toolkit**](https://github.com/jeffersoncesarantunes/Linux-Forensics-Toolkit) | **Unified suite for memory analysis and forensic triage (LinSpec + K-Scanner + S.I.R.E.N).** | `C`, `Bash` |
+| [**SYNTROPY**](https://github.com/jeffersoncesarantunes/SYNTROPY) | **The antithesis of digital entropy. Unified suite for forensic triage (LinSpec + K-Scanner + S.I.R.E.N).** | `C`, `Bash` |
 | [**LinSpec**](https://github.com/jeffersoncesarantunes/LinSpec) | Kernel hardening audit tool focused on identifying real security gaps. | `C` |
 | [**K-Scanner**](https://github.com/jeffersoncesarantunes/K-Scanner) | RWX memory detection and live process analysis for Linux. | `C` |
 | [**S.I.R.E.N**](https://github.com/jeffersoncesarantunes/S.I.R.E.N) | Audit-aware memory acquisition and forensic triage tool. | `Bash` |
