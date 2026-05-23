@@ -74,6 +74,7 @@ Security, for me, isn’t about running tools — it’s about understanding wha
 | [**LinSpec**](https://github.com/jeffersoncesarantunes/LinSpec) | Kernel hardening audit tool focused on identifying real security gaps. | `C` |
 | [**K-Scanner**](https://github.com/jeffersoncesarantunes/K-Scanner) | RWX memory detection and live process analysis for Linux. | `C` |
 | [**S.I.R.E.N**](https://github.com/jeffersoncesarantunes/S.I.R.E.N) | Audit-aware memory acquisition and forensic triage tool. | `Bash` |
+| [**K-Verify**](https://github.com/jeffersoncesarantunes/K-Verify) | Linux Purple Team adversarial validation and detection gap analysis tool for the SYNTROPY ecosystem. | `C` |
 | [**OpenSec**](https://github.com/jeffersoncesarantunes/OpenSec) | OpenBSD mitigation auditor (W^X, ASLR, pledge, unveil). | `C` |
 
 ---
