@@ -55,14 +55,6 @@ Security, for me, isn't about running tools — it's about understanding what th
 
 ---
 
-### 📊 GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jeffersoncesarantunes&show_icons=true&theme=radical&hide_border=true" />
-</div>
-
----
-
 ### 📫 Contact
 
 <p align="center">
