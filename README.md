@@ -42,7 +42,7 @@ Security, for me, isn't about running tools — it's about understanding what th
 | [**K-Scanner**](https://github.com/jeffersoncesarantunes/K-Scanner) | RWX memory detection and live process analysis for Linux. | `C` |
 | [**S.I.R.E.N**](https://github.com/jeffersoncesarantunes/S.I.R.E.N) | Audit-aware memory acquisition and forensic triage tool. | `Bash` |
 | [**K-Verify**](https://github.com/jeffersoncesarantunes/K-Verify) | Purple Team adversarial validation and detection gap analysis for the SYNTROPY ecosystem. | `C` |
-| [**OpenSec**](https://github.com/jeffersoncesarantunes/OpenSec) | OpenBSD mitigation auditor (W^X, ASLR, pledge, unveil). | `C` |
+| [**PMV**](https://github.com/jeffersoncesarantunes/OpenSec) | OpenBSD mitigation auditor (W^X, ASLR, pledge, unveil). | `C` |
 
 ---
 
