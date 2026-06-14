@@ -37,6 +37,7 @@ Security, for me, isn't about running tools — it's about understanding what th
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| [**SYSCAGE**](https://github.com/jeffersoncesarantunes/SYSCAGE) | Behavioral syscall profiler and seccomp policy generator for Linux process confinement. | `C` |
 | [**SYNTROPY**](https://github.com/jeffersoncesarantunes/SYNTROPY) | The antithesis of digital entropy. Unified suite for forensic triage (LinSpec + K-Scanner + S.I.R.E.N). | `C`, `Bash` |
 | [**LinSpec**](https://github.com/jeffersoncesarantunes/LinSpec) | Kernel hardening audit tool focused on identifying real security gaps. | `C` |
 | [**K-Scanner**](https://github.com/jeffersoncesarantunes/K-Scanner) | RWX memory detection and live process analysis for Linux. | `C` |
