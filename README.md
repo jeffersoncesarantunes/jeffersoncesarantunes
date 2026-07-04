@@ -26,6 +26,7 @@ A few ideas guide most of what I do:
 - Focus on real behavior, not assumptions
 
 Security isn't about running tools. It's about understanding what the machine is actually doing when things start to break.
+
 ---
 
 ### 📂 Projects
