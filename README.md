@@ -9,23 +9,15 @@
 
 ### 📔 About Me
 
-Self-taught developer focused on system security and low-level behavior.
+I'm a self-taught developer focused on system security and low-level behavior.
 
-I didn't come from a formal background — most of what I know came from
-reading docs, breaking things in VMs, and trying to understand what the
-system was actually doing under the hood.
+I didn't come from a formal background — most of what I know came from reading docs, breaking things in VMs, and trying to understand what the system was actually doing under the hood.
 
-I work close to the system boundary — where abstractions stop helping
-and you have to deal with memory layout, process behavior, and real
-execution flow.
+I work close to the system boundary — where abstractions stop helping and you have to deal with memory layout, process behavior, and real execution flow.
 
-Instead of big frameworks, I prefer small, transparent tools written in
-**C** and **Bash**. Tools I can inspect fully and trust because I can see
-exactly what they do.
+Instead of big frameworks, I prefer small, transparent tools written in **C** and **Bash**. Tools I can inspect fully and trust because I can see exactly what they do.
 
-Projects like **K-Scanner**, **LinSpec**, **S.I.R.E.N**, and **OpenSec**
-come from that mindset — simple systems to observe, validate, and
-question how things behave in practice.
+Projects like **K-Scanner**, **LinSpec**, **S.I.R.E.N**, and **OpenSec** come from that mindset — simple systems to observe, validate, and question how things behave in practice.
 
 A few ideas guide most of what I do:
 
