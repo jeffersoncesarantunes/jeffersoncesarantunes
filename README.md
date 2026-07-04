@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=33FF33¢er=true&vCenter=true&width=600&lines=Self-Taught+System+Security+Developer;OpenBSD+%26+Linux+Enthusiast;Kernel+%26+Memory+Internals" alt="Typing SVG" />
+  🐡 System Security Researcher | Low-Level & Kernel-Focused Developer 🐧
 </p>
 
 <p align="center">
