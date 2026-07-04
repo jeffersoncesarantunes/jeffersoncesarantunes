@@ -34,21 +34,20 @@ Security isn't about running tools. It's about understanding what the machine is
 | :--- | :--- | :--- |
 | [**LinDash**](https://github.com/jeffersoncesarantunes/LinDash) | Web dashboard for LinSpec scan reports with REST API and SQLite storage. | `Python` |
 | [**SYSCAGE**](https://github.com/jeffersoncesarantunes/SYSCAGE) | Behavioral syscall profiler and seccomp policy generator for Linux process confinement. | `C` |
-| [**SYNTROPY**](https://github.com/jeffersoncesarantunes/SYNTROPY) | The antithesis of digital entropy. Unified suite for forensic triage (LinSpec + K-Scanner + S.I.R.E.N). | `C`, `Bash` |
+| [**SYNTROPY**](https://github.com/jeffersoncesarantunes/SYNTROPY) | Unified forensic triage suite (LinSpec + K-Scanner + S.I.R.E.N). | `C`, `Bash` |
 | [**LinSpec**](https://github.com/jeffersoncesarantunes/LinSpec) | Kernel hardening audit tool focused on identifying real security gaps. | `C` |
 | [**K-Scanner**](https://github.com/jeffersoncesarantunes/K-Scanner) | RWX memory detection and live process analysis for Linux. | `C` |
 | [**S.I.R.E.N**](https://github.com/jeffersoncesarantunes/S.I.R.E.N) | Audit-aware memory acquisition and forensic triage tool. | `Bash` |
 | [**K-Verify**](https://github.com/jeffersoncesarantunes/K-Verify) | Purple Team adversarial validation and detection gap analysis for the SYNTROPY ecosystem. | `C` |
-| [**PMV**](https://github.com/jeffersoncesarantunes/OpenSec) | OpenBSD mitigation auditor (W^X, ASLR, pledge, unveil). | `C` |
+| [**PMV**](https://github.com/jeffersoncesarantunes/PMV) | OpenBSD mitigation auditor (W^X, ASLR, pledge, unveil). | `C` |
 
 ---
 
 ### 🛠️ Stack & Environment
 
-- **OS:** OpenBSD + Arch Linux (daily drivers)
-- **Languages:** C11, Bash
-- **Editor:** Neovim (AstroNvim)
-- **Focus:** Memory forensics, kernel mitigations, process behavior, exploit surfaces
+**Languages:** C11, Bash, Python  
+**Systems:** OpenBSD, Arch Linux  
+**Editor:** Neovim (AstroNvim)
 
 ---
 
