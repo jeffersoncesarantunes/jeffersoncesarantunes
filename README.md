@@ -13,24 +13,32 @@
 
 ### 📔 About Me
 
-I'm a self-taught developer focused on system security and low-level behavior.
+Self-taught developer focused on system security and low-level behavior.
 
-I didn't come from a formal background in this area — most of what I know came from curiosity, reading documentation, breaking systems in VMs, and trying to understand what actually happened under the hood.
+I didn't come from a formal background — most of what I know came from
+reading docs, breaking things in VMs, and trying to understand what the
+system was actually doing under the hood.
 
-I like working close to the system boundary — where abstractions stop helping and you have to deal with memory layout, process behavior, and real execution flow.
+I work close to the system boundary — where abstractions stop helping
+and you have to deal with memory layout, process behavior, and real
+execution flow.
 
-Instead of relying on large frameworks, I prefer small and transparent tools written in **C** and **Bash**, where I can see exactly what is happening.
+Instead of big frameworks, I prefer small, transparent tools written in
+**C** and **Bash**. Tools I can inspect fully and trust because I can see
+exactly what they do.
 
-Projects like **K-Scanner**, **LinSpec**, **S.I.R.E.N**, and **OpenSec** come from that mindset — building simple tools to observe, validate, and question how systems behave in real conditions.
+Projects like **K-Scanner**, **LinSpec**, **S.I.R.E.N**, and **OpenSec**
+come from that mindset — simple systems to observe, validate, and
+question how things behave in practice.
 
-Most of what I do follows a few ideas:
+A few ideas guide most of what I do:
 
-- Push systems until edge cases start to show up
+- Push systems until edge cases surface
 - Keep things minimal and inspectable
-- Focus on real behavior instead of assumptions
+- Focus on real behavior, not assumptions
 
-Security, for me, isn't about running tools — it's about understanding what the system is actually doing when things start to break.
-
+Security isn't about running tools. It's about understanding what the
+machine is actually doing when things start to break.
 ---
 
 ### 📂 Projects
