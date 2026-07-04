@@ -79,4 +79,4 @@ Security isn't about running tools. It's about understanding what the machine is
 
 ### 🤝 Contributing
 
-Contributions are welcome. I care about simplicity, safety, and transparency — especially in low-level and memory-related code. If you have ideas, improvements, or just want to discuss something interesting, feel free to open an issue or reach out.
+Contributions welcome — especially if you care about simplicity and low-level correctness. Open an issue or pull request if you have ideas or improvements.
