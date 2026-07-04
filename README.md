@@ -1,7 +1,7 @@
 # <p align="center"> 🐡 System Security Researcher | Low-Level & Kernel-Focused Developer 🐧 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=33FF33¢er=true&vCenter=true&width=600&lines=Self-Taught+System+Security+Developer;OpenBSD+%26+Linux+Enthusiast;Kernel+%26+Memory+Internals;Learning+by+breaking+things" alt="Typing SVG" />
+  <img src="https://scribesvg.vercel.app/api/render?lines=Self-Taught%20System%20Security%20Developer;OpenBSD%20%26%20Linux%20Enthusiast;Kernel%20%26%20Memory%20Internals;Learning%20by%20breaking%20things&font=Fira%20Code&color=33FF33¢er=true" alt="Typing SVG" />
 </p>
 
 <p align="center">
