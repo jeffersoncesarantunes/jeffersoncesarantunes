@@ -25,8 +25,7 @@ A few ideas guide most of what I do:
 - Keep things minimal and inspectable
 - Focus on real behavior, not assumptions
 
-Security isn't about running tools. It's about understanding what the
-machine is actually doing when things start to break.
+Security isn't about running tools. It's about understanding what the machine is actually doing when things start to break.
 ---
 
 ### 📂 Projects
