@@ -64,17 +64,15 @@ Security isn't about running tools. It's about understanding what the machine is
 
 ---
 
-### 🌐 Systems & References
+### 📖 References
 
 <p align="center">
-  <a href="https://www.openbsd.org"><img src="https://img.shields.io/badge/OpenBSD-FBD12B?style=flat-square&logo=openbsd&logoColor=black" /></a>
-  <a href="https://archlinux.org"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" /></a>
-  <a href="https://www.phrack.org"><img src="https://img.shields.io/badge/Phrack-0073E1?style=flat-square&logo=gitbook&logoColor=white" /></a>
+  <a href="https://www.phrack.org"><img src="https://img.shields.io/badge/Phrack-0073E1?style=flat-square&logo=book&logoColor=white" /></a>
   <a href="https://volatilityfoundation.org"><img src="https://img.shields.io/badge/Volatility-FFD700?style=flat-square&logo=python&logoColor=black" /></a>
   <a href="https://www.kernel.org/doc/html/latest/admin-guide/LSM/index.html"><img src="https://img.shields.io/badge/Linux_Security_Modules-1793D1?style=flat-square&logo=linux&logoColor=white" /></a>
-  <a href="https://www.exploit-db.com"><img src="https://img.shields.io/badge/Exploit_DB-CC0000?style=flat-square&logo=hack-the-box&logoColor=white" /></a>
+  <a href="https://www.exploit-db.com"><img src="https://img.shields.io/badge/Exploit_DB-CC0000?style=flat-square&logo=bookstack&logoColor=white" /></a>
   <a href="https://googleprojectzero.blogspot.com"><img src="https://img.shields.io/badge/Project_Zero-4285F4?style=flat-square&logo=google&logoColor=white" /></a>
-  <a href="https://attack.mitre.org"><img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF6600?style=flat-square&logo=target&logoColor=white" /></a>
+  <a href="https://attack.mitre.org"><img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF6600?style=flat-square&logo=shield&logoColor=white" /></a>
 </p>
 
 ---
