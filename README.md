@@ -34,7 +34,7 @@ Security isn't about running tools. It's about understanding what the machine is
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | [**EW-Verify**](https://github.com/jeffersoncesarantunes/EW-Verify) | Purple Team adversarial validation suite for Electronic Warfare detection on Linux. | `C` |
-| [**LinDash**](https://github.com/jeffersoncesarantunes/LinDash) | Web dashboard for LinSpec scan reports with REST API and SQLite storage. | `Python` |
+| [**LinView**](https://github.com/jeffersoncesarantunes/LinDash) | Web dashboard for LinSpec scan reports with REST API and SQLite storage. | `Python` |
 | [**SYSCAGE**](https://github.com/jeffersoncesarantunes/SYSCAGE) | Behavioral syscall profiler and seccomp policy generator for Linux process confinement. | `C` |
 | [**SYNTROPY**](https://github.com/jeffersoncesarantunes/SYNTROPY) | Unified forensic triage suite (LinSpec + K-Scanner + S.I.R.E.N). | `C`, `Bash` |
 | [**LinSpec**](https://github.com/jeffersoncesarantunes/LinSpec) | Kernel hardening audit tool focused on identifying real security gaps. | `C` |
