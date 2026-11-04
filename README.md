@@ -1,77 +1,45 @@
-# <p align="center"> 🐡 System Security Researcher | Low-Level & Kernel-Focused Developer 🐧 </p>
-
 <p align="center">
-  <i>Auditing kernels and inspecting memory — one syscall at a time.</i><br>
-  <i>Mostly learning by breaking things and figuring out why.</i>
+  <b>Jefferson Cesar Antunes</b><br>
+  Systems developer — Linux/OpenBSD process introspection and memory analysis
 </p>
 
 ---
 
-### 📔 About Me
+### About
 
-I'm a self-taught developer focused on system security and low-level behavior.
+I'm self-taught. Most of what I know comes from reading man pages, breaking
+things in VMs, and tracing syscalls until the behavior made sense.
 
-I didn't come from a formal background — most of what I know came from reading docs, breaking things in VMs, and trying to understand what the system was actually doing under the hood.
+I write small C and Bash tools that I can read end to end. My interest is the
+boundary where abstractions stop helping: process state, memory layout, and
+what the kernel will and won't tell you.
 
-I work close to the system boundary — where abstractions stop helping and you have to deal with memory layout, process behavior, and real execution flow.
+### Projects
 
-Instead of big frameworks, I prefer small, transparent tools written in **C** and **Bash**. Tools I can inspect fully and trust because I can see exactly what they do.
-
-Projects like **K-Scanner**, **LinSpec**, **S.I.R.E.N**, and **OpenSec** come from that mindset — simple systems to observe, validate, and question how things behave in practice.
-
-A few ideas guide most of what I do:
-
-- Push systems until edge cases surface
-- Keep things minimal and inspectable
-- Focus on real behavior, not assumptions
-
-Security isn't about running tools. It's about understanding what the machine is actually doing when things start to break.
-
----
-
-### 📂 Projects
-
-| Project | Description | Stack |
+| Project | What it does | Language |
 | :--- | :--- | :--- |
-| [**K-Scanner**](https://github.com/jeffersoncesarantunes/K-Scanner) | RWX memory detection and live process analysis for Linux. | `C` |
-| [**PMV**](https://github.com/jeffersoncesarantunes/PMV) | OpenBSD mitigation auditor (W^X, ASLR, pledge, unveil). | `C` |
+| [**PMV**](https://github.com/jeffersoncesarantunes/PMV) | OpenBSD process mitigation viewer. Reads `kinfo_proc` through `kvm(3)` and reports whether `pledge(2)`, `unveil(2)`, and W^X are active per process. It reports presence, not policy depth — the kernel exposes nothing more. | C11 |
+| [**K-Scanner**](https://github.com/jeffersoncesarantunes/K-Scanner) | Linux RWX memory scanner. Parses `/proc/[PID]/maps`, flags writable+executable regions, and separates JIT mappings from suspicious ones. | C99 |
 
----
+Both build with `make`. I'm adding a `make verify` target, behavioral tests,
+and a benchmark to each repo.
 
-### 🛠️ Stack & Environment
+### Environment
 
-**Languages:** C11, Bash, Python  
-**Systems:** OpenBSD, Arch Linux  
-**Editor:** Neovim (AstroNvim)
+C (C99/C11), Bash, Python · OpenBSD, Arch Linux · Neovim
 
----
-
-### 📫 Contact
+### Contact
 
 <p align="center">
   <a href="https://matrix.to/#/@striderhiryu:matrix.org"><img src="https://img.shields.io/badge/Matrix-006B4D?style=flat-square&logo=matrix&logoColor=white" /></a>
   <a href="https://x.com/j3ff3rsonc3sar"><img src="https://img.shields.io/badge/X-202327?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="https://codeberg.org/jeffersoncesarantunes"><img src="https://img.shields.io/badge/Codeberg-2185D0?style=flat-square&logo=codeberg&logoColor=white" /></a>
-  <a href="https://i.delta.chat/#1E8501BD6D5C14CF8D74C74B892712E950E767D9&i=iAIMyKnzMEgRMpvhWYlnKsI-&s=3TSeYg9qn3g0jQyvfcp6w3H1&a=opzynz5ie%40nine.testrun.org&n=Strider+Hiryu"><img src="https://img.shields.io/badge/DeltaChat-422863?style=flat-square&logo=delta-chat&logoColor=white" /></a>
   <a href="https://discord.com/users/1476405883733807247"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
   <a href="https://mastodon.social/@jeffersoncesar"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white" /></a>
 </p>
 
----
+### Issues
 
-### 📖 References
-
-<p align="center">
-  <a href="https://www.phrack.org"><img src="https://img.shields.io/badge/Phrack-0073E1?style=flat-square&logo=book&logoColor=white" /></a>
-  <a href="https://volatilityfoundation.org"><img src="https://img.shields.io/badge/Volatility-FFD700?style=flat-square&logo=python&logoColor=black" /></a>
-  <a href="https://www.kernel.org/doc/html/latest/admin-guide/LSM/index.html"><img src="https://img.shields.io/badge/Linux_Security_Modules-1793D1?style=flat-square&logo=linux&logoColor=white" /></a>
-  <a href="https://www.exploit-db.com"><img src="https://img.shields.io/badge/Exploit_DB-CC0000?style=flat-square&logo=bookstack&logoColor=white" /></a>
-  <a href="https://googleprojectzero.blogspot.com"><img src="https://img.shields.io/badge/Project_Zero-4285F4?style=flat-square&logo=google&logoColor=white" /></a>
-  <a href="https://attack.mitre.org"><img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF6600?style=flat-square&logo=shield&logoColor=white" /></a>
-</p>
-
----
-
-### 🤝 Contributing
-
-Contributions welcome — especially if you care about simplicity and low-level correctness. Open an issue or pull request if you have ideas or improvements.
+If a tool here overclaims or fails on your machine, open an issue with the
+command, your OS/kernel version, and the output. That's more useful to me than
+a feature request.
